@@ -3,7 +3,7 @@ import pandas as pd
 
 # ページ設定
 st.set_page_config(page_title="スプレッドシート連動型競馬予想", layout="wide")
-st.title("🐎 スプレッドシート連動型競馬予想")
+st.title("🐎 競馬予想シミュレーション")
 st.markdown("Googleスプレッドシートのデータを読み込み、自動で期待値を算出します。")
 
 # ==========================================
